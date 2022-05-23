@@ -1,0 +1,46 @@
+
+/**************************************** TAG SELECTOR**************************************/
+
+body {
+    background-color: #B3E8E5;
+    }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5pt;
+    width: 5%;
+    }
+
+h1, h3 {
+    color: #2F8F9D; 
+}
+
+/*
+img {
+    background-color: aquamarine;
+}
+*/
+
+img:hover {
+    background-color: gold;
+}
+
+/**************************************** CLASS SELECTOR**************************************/
+
+.dog {
+    background-color: bisque;
+}
+.horse {
+    background-color: burlywood;
+}
+.circle {
+    border-radius: 100%;
+}
+
+/**************************************** ID SELECTOR**************************************/
+
+#header {
+    color: blue;
+}
